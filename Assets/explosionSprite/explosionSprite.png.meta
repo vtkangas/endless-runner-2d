@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: ef308a0ca8ab4ab4d9cb2afa3e0b8f08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4493008723557539326
+    second: NicePng_explotion-png_1023139_0
+  - first:
+      213: -1696396549675595444
+    second: NicePng_explotion-png_1023139_1
+  - first:
+      213: -6868031956168595728
+    second: NicePng_explotion-png_1023139_2
+  - first:
+      213: -1177427592017523463
+    second: NicePng_explotion-png_1023139_3
+  - first:
+      213: -8521345377068803410
+    second: NicePng_explotion-png_1023139_4
+  - first:
+      213: 6433689432602180807
+    second: NicePng_explotion-png_1023139_5
+  - first:
+      213: -8446906967431950326
+    second: NicePng_explotion-png_1023139_6
+  - first:
+      213: -7566556960464273961
+    second: NicePng_explotion-png_1023139_7
+  - first:
+      213: 1064967632997208002
+    second: NicePng_explotion-png_1023139_8
+  - first:
+      213: -7809936613140383574
+    second: NicePng_explotion-png_1023139_9
+  - first:
+      213: -1929706004058434267
+    second: NicePng_explotion-png_1023139_10
+  - first:
+      213: 6182877443320258746
+    second: NicePng_explotion-png_1023139_11
+  - first:
+      213: 5586578815033753125
+    second: NicePng_explotion-png_1023139_12
+  - first:
+      213: 7838135568248963876
+    second: NicePng_explotion-png_1023139_13
+  - first:
+      213: 586601892260171590
+    second: NicePng_explotion-png_1023139_14
+  - first:
+      213: 345445306422761795
+    second: NicePng_explotion-png_1023139_15
+  - first:
+      213: 3100136260701483505
+    second: NicePng_explotion-png_1023139_16
+  - first:
+      213: 1194124780291763913
+    second: NicePng_explotion-png_1023139_17
+  - first:
+      213: 8412796166471445853
+    second: NicePng_explotion-png_1023139_18
+  - first:
+      213: 56915216755029509
+    second: NicePng_explotion-png_1023139_19
+  - first:
+      213: -8524251736229302686
+    second: NicePng_explotion-png_1023139_20
+  - first:
+      213: 6985985009657369821
+    second: NicePng_explotion-png_1023139_21
+  - first:
+      213: 6444560877712097872
+    second: NicePng_explotion-png_1023139_22
+  - first:
+      213: -1140082190892601928
+    second: NicePng_explotion-png_1023139_23
+  - first:
+      213: 1302928271460264738
+    second: NicePng_explotion-png_1023139_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 416
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2022f93fe50a5a1c0800000000000000
+      internalID: -4493008723557539326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 412
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49436273503578e0800000000000000
+      internalID: -1696396549675595444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 408
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f62a820359dfa0a0800000000000000
+      internalID: -6868031956168595728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 406
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc4d05e7dfe8afe0800000000000000
+      internalID: -1177427592017523463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 402
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa956f07891eb980800000000000000
+      internalID: -8521345377068803410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 300
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccff69a37e094950800000000000000
+      internalID: 6433689432602180807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 300
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a005273edde86ca80800000000000000
+      internalID: -8446906967431950326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 300
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd74c6a8803ef690800000000000000
+      internalID: -7566556960464273961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 298
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf46167b6687ce00800000000000000
+      internalID: 1064967632997208002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 298
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8337777088d9390800000000000000
+      internalID: -7809936613140383574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 198
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52598230d9e4835e0800000000000000
+      internalID: -1929706004058434267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 198
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab021e2c64efdc550800000000000000
+      internalID: 6182877443320258746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 198
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e3fc355d3878d40800000000000000
+      internalID: 5586578815033753125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 198
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42385d665c6a6cc60800000000000000
+      internalID: 7838135568248963876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 198
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f4db42057042800800000000000000
+      internalID: 586601892260171590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34997aa0da44bc400800000000000000
+      internalID: 345445306422761795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 100
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f17b6ef085e50b20800000000000000
+      internalID: 3100136260701483505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 100
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce28c23922629010800000000000000
+      internalID: 1194124780291763913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 100
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d6c4e5a8140c470800000000000000
+      internalID: 8412796166471445853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 100
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5067ffc86143ac000800000000000000
+      internalID: 56915216755029509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eab069536c3b980800000000000000
+      internalID: -8524251736229302686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4d4da5a5433f060800000000000000
+      internalID: 6985985009657369821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c86939fdaf6950800000000000000
+      internalID: 6444560877712097872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bde81da94d9d20f0800000000000000
+      internalID: -1140082190892601928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_explotion-png_1023139_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 57
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22be3341c5ee41210800000000000000
+      internalID: 1302928271460264738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

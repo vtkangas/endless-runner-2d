@@ -53,14 +53,14 @@
     <UnityVersion>2020.3.16f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\koodit\playerScript.cs" />
-    <Compile Include="Assets\koodit\enemySpawnerScript.cs" />
-    <Compile Include="Assets\koodit\quitScrip.cs" />
-    <Compile Include="Assets\koodit\gameoverScript.cs" />
-    <Compile Include="Assets\koodit\introScript.cs" />
-    <Compile Include="Assets\koodit\backgroundScroller.cs" />
-    <Compile Include="Assets\koodit\pointManagmentScript.cs" />
-    <Compile Include="Assets\koodit\enemyScript.cs" />
+    <Compile Include="Assets\scipts\playerScript.cs" />
+    <Compile Include="Assets\scipts\enemySpawnerScript.cs" />
+    <Compile Include="Assets\scipts\quitScrip.cs" />
+    <Compile Include="Assets\scipts\gameoverScript.cs" />
+    <Compile Include="Assets\scipts\introScript.cs" />
+    <Compile Include="Assets\scipts\backgroundScroller.cs" />
+    <Compile Include="Assets\scipts\pointManagmentScript.cs" />
+    <Compile Include="Assets\scipts\enemyScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -284,9 +284,6 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
-    </Reference>
-    <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
